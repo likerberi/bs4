@@ -1,0 +1,9 @@
+# virtual env
+venv
+/venv
+
+#ideas
+.idea
+.ideas
+/ideas
+/.idea
